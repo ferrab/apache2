@@ -1,4 +1,4 @@
-FROM ferrab/
+FROM ferrab
 
 MAINTAINER Ferrab 
 

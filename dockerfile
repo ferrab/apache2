@@ -5,7 +5,7 @@
 ##
 
 # Pull base image.
-FROM teamrock/ubuntu:latest
+FROM ubuntu:latest
 
 # Maintainer
 MAINTAINER TeamRock <devtech@teamrock.com>

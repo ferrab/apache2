@@ -1,4 +1,4 @@
-FROM ferrab/apache2:latest
+FROM ferrab/apache2
 
 MAINTAINER Ferrab 
 

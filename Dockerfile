@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ferrab/ubuntu:latest
 
 MAINTAINER Ferrab 
 

@@ -1,4 +1,4 @@
-FROM ferrab/ubuntu:latest
+FROM ferrab/apache2:latest
 
 MAINTAINER Ferrab 
 
